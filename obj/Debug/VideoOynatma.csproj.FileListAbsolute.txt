@@ -1,0 +1,15 @@
+C:\Users\Alihan\source\repos\VideoOynatma\VideoOynatma\bin\Debug\VideoOynatma.exe.config
+C:\Users\Alihan\source\repos\VideoOynatma\VideoOynatma\bin\Debug\VideoOynatma.exe
+C:\Users\Alihan\source\repos\VideoOynatma\VideoOynatma\bin\Debug\VideoOynatma.pdb
+C:\Users\Alihan\source\repos\VideoOynatma\VideoOynatma\bin\Debug\Interop.WMPLib.dll
+C:\Users\Alihan\source\repos\VideoOynatma\VideoOynatma\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Alihan\source\repos\VideoOynatma\VideoOynatma\obj\Debug\VideoOynatma.csprojAssemblyReference.cache
+C:\Users\Alihan\source\repos\VideoOynatma\VideoOynatma\obj\Debug\Interop.WMPLib.dll
+C:\Users\Alihan\source\repos\VideoOynatma\VideoOynatma\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Alihan\source\repos\VideoOynatma\VideoOynatma\obj\Debug\VideoOynatma.csproj.ResolveComReference.cache
+C:\Users\Alihan\source\repos\VideoOynatma\VideoOynatma\obj\Debug\VideoOynatma.Form1.resources
+C:\Users\Alihan\source\repos\VideoOynatma\VideoOynatma\obj\Debug\VideoOynatma.Properties.Resources.resources
+C:\Users\Alihan\source\repos\VideoOynatma\VideoOynatma\obj\Debug\VideoOynatma.csproj.GenerateResource.cache
+C:\Users\Alihan\source\repos\VideoOynatma\VideoOynatma\obj\Debug\VideoOynatma.csproj.CoreCompileInputs.cache
+C:\Users\Alihan\source\repos\VideoOynatma\VideoOynatma\obj\Debug\VideoOynatma.exe
+C:\Users\Alihan\source\repos\VideoOynatma\VideoOynatma\obj\Debug\VideoOynatma.pdb
